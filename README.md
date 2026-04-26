@@ -45,6 +45,11 @@
 
 ## Features
 
+- 🆕 ♪ Sound Effects Library — save and preview your sound effects, insert them between clips (before, between, after)  
+- 🆕 🔇 Silence gaps — add custom silence between clips when merging  
+- 🆕 ✏️ Per-clip output naming — set a custom filename for each individual clip
+- 🆕 📂 Local file support — drop or browse any local audio or video file; audio is extracted automatically
+- 🆕 🎬 Video support — audio is extracted automatically  
 - Paste or drag & drop Twitter/X Space Replay URLs into the queue
 - Set start and end timestamps for each clip — or check **Full** to grab the whole Space
 - Type timestamps without colons — `013045` becomes `01:30:45` automatically
@@ -134,6 +139,11 @@ Pick your **Output Folder**, then click **▶ Start**.
 
 ## Χαρακτηριστικά
 
+- 🆕 ♪ Sound Effects Library — αποθήκευση & preview ηχητικών εφέ, με εισαγωγή πριν / ανάμεσα / μετά τα clips
+- 🆕 ✏️ Per-clip output naming — ορισμός ξεχωριστού filename για κάθε clip  
+- 🆕 🔇 Silence gaps — προσθήκη custom σιωπής μεταξύ clips κατά το merging
+- 🆕 📂 Local file support — υποστήριξη τοπικών αρχείων audio/video με αυτόματη εξαγωγή ήχου
+- 🆕 🎬 Video support — MP4, MKV, MOV κ.ά. με automatic audio extraction  
 - Επικολλήστε ή σύρετε Twitter/X Space Replay URLs στην ουρά
 - Ορίστε timestamps έναρξης και λήξης — ή τσεκάρετε **Full** για ολόκληρο το Space
 - Πληκτρολογείτε timestamps χωρίς άνω-κάτω τελείες — `013045` → `01:30:45` αυτόματα
@@ -145,6 +155,7 @@ Pick your **Output Folder**, then click **▶ Start**.
 - Συγχωνεύστε όλα τα clips σε ένα συνεχές αρχείο ήχου
 - Θυμάται τον φάκελο εξόδου μεταξύ sessions
 - Ενσωματωμένες οδηγίες σε κάθε βήμα της διαδικασίας (EN/GR)
+> Σημείωση: Το preview των sound effects στο library υποστηρίζεται στα Windows μόνο για αρχεία `.wav`
 
 ---
 
@@ -171,7 +182,7 @@ Pick your **Output Folder**, then click **▶ Start**.
 
 ---
 
-### 3. Προσθέστε στην ουρά
+### 3. Προσθέστε στην ουρά για Cut
 
 Πατήστε **✂️ Send to Cut Queue** — ή σύρετε το URL στη ζώνη drop.
 
