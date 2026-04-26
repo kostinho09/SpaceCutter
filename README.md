@@ -93,8 +93,7 @@ Paste the Live/Dynamic URL into the bottom field and click **Convert to Replay U
 
 ### 3. Add to the Cut Queue
 
-Click **✂️ Send to Cut Queue** — or drag and drop the Replay URL directly into the drop zone.
-
+Click **✂️ Send to Cut Queue** — or drag and drop the Replay URL.
 ---
 
 ### 4. Set your timestamps
@@ -184,7 +183,7 @@ Pick your **Output Folder**, then click **▶ Start**.
 
 ### 3. Προσθέστε στην ουρά για Cut
 
-Πατήστε **✂️ Send to Cut Queue** — ή σύρετε το URL στη ζώνη drop.
+Πατήστε **✂️ Send to Cut Queue** — ή σύρετε το URL για drop.
 
 ---
 
