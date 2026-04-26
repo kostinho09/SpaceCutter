@@ -61,6 +61,7 @@
 - Merge all clips into a single continuous audio file
 - Remembers your output folder across sessions
 - Built-in step-by-step guidance at every stage of the workflow (EN/GR)
+> Note: Sound effects preview in the library is only supported on Windows for .wav files.
 
 ---
 
@@ -181,7 +182,7 @@ Pick your **Output Folder**, then click **▶ Start**.
 
 ---
 
-### 3. Προσθέστε στην ουρά για Cut
+### 3. Προσθέστε το στην ουρά για Cut
 
 Πατήστε **✂️ Send to Cut Queue** — ή σύρετε το URL για drop.
 
