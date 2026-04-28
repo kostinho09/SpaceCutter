@@ -5,7 +5,7 @@
 <h1 align="center">✂️ Space Cutter</h1>
 
 <p align="center">
-  A free, standalone Mac & Windows app to cut and download audio from Twitter/X Spaces.<br/>
+  A free, standalone macOS & Windows app to cut and download audio from Twitter/X Spaces.<br/>
   No installation needed. No FFmpeg required. Just open and use.
 </p>
 
@@ -31,7 +31,7 @@
 
 > Head to the **[Releases](../../releases/latest)** page and grab the version for your OS:
 >
-> 🍎 **Mac** → `SpaceCutter-Mac.zip`
+> 🍎 **macOS** → `SpaceCutter-Mac.zip`
 > 🪟 **Windows** → `SpaceCutter-Windows.zip`
 
 **Mac:** After unzipping, if you see a warning that the app cannot be opened:
@@ -123,7 +123,7 @@ Pick your **Output Folder**, then click **▶ Start**.
 
 > Πηγαίνετε στη σελίδα **[Releases](../../releases/latest)** και κατεβάστε την έκδοση για το λειτουργικό σας:
 >
-> 🍎 **Mac** → `SpaceCutter-Mac.zip`
+> 🍎 **macOS** → `SpaceCutter-Mac.zip`
 > 🪟 **Windows** → `SpaceCutter-Windows.zip`
 
 **Mac:** Μετά το unzip, αν εμφανιστεί προειδοποίηση ότι δεν μπορεί να ανοίξει το app:
