@@ -72,12 +72,18 @@
 Before anything else, you need the stream URL from your browser.
 
 ```
-1. Open the Twitter/X Space in your browser
+1. Open the Twitter/X Space in your browser while it's live
 2. Press F12 → go to the Network tab
 3. Type "dynamic" in the filter box
 4. Refresh the page or wait a moment
 5. Find the request containing "dynamic_playlist.m3u8?type=live"
 6. Right-click it → Copy URL
+
+Note: Both dynamic and replay links expire 30 days after the Space broadcast.
+Be sure to download it using the SpaceCutter desktop app if you want to keep it.
+
+Tip: Save the live/dynamic URL of the Space in a notepad synced across all your devices
+so you can convert it into a replay link later.
 ```
 
 This is your **Live/Dynamic URL**. You'll use it in the next step.
@@ -164,12 +170,18 @@ Pick your **Output Folder**, then click **▶ Start**.
 ### 1. Βρείτε το Live/Dynamic URL
 
 ```
-1. Ανοίξτε το Twitter/X Space στον browser σας
+1. Ανοίξτε το Twitter/X Space όσο ειναι Live, στον browser σας 
 2. Πατήστε F12 → πηγαίνετε στο tab Network
 3. Γράψτε "dynamic" στο πεδίο φίλτρου
 4. Κάντε refresh ή περιμένετε λίγο
 5. Βρείτε το request που περιέχει "dynamic_playlist.m3u8?type=live"
 6. Δεξί κλικ → Copy URL
+
+Σημείωση: Τόσο τα dynamic όσο και τα replay links λήγουν 30 ημέρες μετά το Space broadcast.
+Φρόντισε να το κάνεις download χρησιμοποιώντας το SpaceCutter desktop app αν θέλεις να το κρατήσεις.
+
+Tip: Αποθήκευσε το live/dynamic URL του Space σε ένα notepad που συγχρονίζεται σε όλες τις συσκευές σου,
+ώστε να μπορείς να το μετατρέψεις σε replay link αργότερα.
 ```
 
 ---
