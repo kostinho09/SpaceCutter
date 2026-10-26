@@ -101,6 +101,7 @@ Paste the Live/Dynamic URL into the bottom field and click **Convert to Replay U
 ### 3. Add to the Cut Queue
 
 Click **✂️ Send to Cut Queue** — or drag and drop the Replay URL.
+
 ---
 
 ### 4. Set your timestamps
@@ -116,6 +117,10 @@ Set **Start** and **End** for each clip, or check **Full** to download the entir
 Pick your **Output Folder**, then click **▶ Start**.
 
 ---
+
+## Privacy 
+Space Cutter runs entirely on your computer. There are no accounts, no analytics, no telemetry, no login, cookies or credentials and no update checks.
+
 ---
 
 # ✂️ Space Cutter [EL]
