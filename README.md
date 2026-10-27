@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/icon.png" width="120" alt="SpaceCutter icon" />
 </p>
-
 <h1 align="center">✂️ Space Cutter</h1>
 
 <p align="center">
@@ -25,7 +24,15 @@
   <img src="assets/screenshot.png" width="780" alt="SpaceCutter screenshot" />
 </p>
 
+<p align="center">
+  <a href="#english"><b> English</b></a> &nbsp;·&nbsp; <a href="#greek"><b> Greek</b></a>
+</p>
+
 ---
+
+<a id="english"></a>
+
+# ✂️ Space Cutter [EN]
 
 ## ⬇️ Download the latest release
 
@@ -122,6 +129,8 @@ Pick your **Output Folder**, then click **▶ Start**.
 Space Cutter runs entirely on your computer. There are no accounts, no analytics, no telemetry, no login, cookies or credentials and no update checks.
 
 ---
+
+<a id="greek"></a>
 
 # ✂️ Space Cutter [EL]
 
