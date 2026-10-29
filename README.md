@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/icon.png" width="120" alt="SpaceCutter icon" />
 </p>
-<h1 align="center">✂️ Space Cutter</h1>
+<h1 align="center"> Space Cutter</h1>
 
 <p align="center">
   A free, standalone macOS & Windows app to cut and download audio from Twitter/X Spaces.<br/>
